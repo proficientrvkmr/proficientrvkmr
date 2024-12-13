@@ -1,3 +1,4 @@
-- 📫 If you wanna to reach me. You can send me invite on Google Meet/Email at: proficientrvkmr@gmail.com
-- WhatsApp Me: [+91-8218182198](https://api.whatsapp.com/send/?phone=918218182198&text=Hi)
 - My Profile: [https://proficientrvkmr.github.io](https://proficientrvkmr.github.io/)
+- WhatsApp Me: [+91-8218182198](https://api.whatsapp.com/send/?phone=918218182198&text=Hi)
+- Send me email or meeting-invite at: [proficientrvkmr@gmail.com]
+
