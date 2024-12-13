@@ -7,8 +7,4 @@ AWS Cloud Architecting, AWS Serverless Development.
 Cloud based Application, React-native based Mobile Application.
 - 📫 If you wanna to reach me. You can send me Google Meet/Google Chat at: proficientrvkmr@gmail.com
 - WhatsApp Me at +91-8218182198
-
-<!---
-https://proficientrvkmr.github.io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- My Profile: https://proficientrvkmr.github.io/info/
